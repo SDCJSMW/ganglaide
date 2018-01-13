@@ -129,7 +129,7 @@ function adjustWordsPosition() {
 
 function adjustCodePosition() {
     //左侧文本高度
-	$('#code').css("margin-top", ($("#garden").height() - $("#code").height()) / 2 - 80 -70);
+	$('#code').css("margin-top", ($("#garden").height() - $("#code").height()) / 2 - 80 -60);
 }
 
 function showLoveU() {
